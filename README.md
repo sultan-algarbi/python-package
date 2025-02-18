@@ -7,7 +7,7 @@ This package is ideal for Python developers looking to integrate Paylink's payme
 You can install the package using pip:
 
 ```bash
-pip install paylink-package==1.0.6
+pip install paylink-package==1.0.7
 ```
 
 ## Usage
